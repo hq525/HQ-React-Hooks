@@ -11,7 +11,7 @@ type IUseCounter = {
 
 
 /**
- * Classic counter example to help understand the flow of this npm package
+ * Classic counter hook
  *
  * @param    {number} initialValue
  *           initial counter value
